@@ -19,11 +19,11 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+# # Blogroll
+# LINKS = (('Pelican', 'http://getpelican.com/'),
+#          ('Python.org', 'http://python.org/'),
+#          ('Jinja2', 'http://jinja.pocoo.org/'),
+#          ('You can modify those links in your config file', '#'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
@@ -34,12 +34,12 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-THEME = "~/Projects/personal/pelican-themes/resume"
+THEME = "/Users/yannish-tpm/Projects/personal/pelican-themes/resume"
 
 # Profile information
-NAME = 'Suhaib Khan'
-TAGLINE = 'Full Stack Developer'
-PIC = 'profile.png'
+NAME = 'Yannish Sewraz'
+TAGLINE = 'Data Team Lead'
+PIC = '~/Projects/personal/blog/content/images/yannish-india-holi.jpeg'
 
 # sidebar links
 EMAIL = 'yannish8@gmail.com'

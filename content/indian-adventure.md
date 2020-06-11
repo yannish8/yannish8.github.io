@@ -3,8 +3,6 @@ Title:  The Great Indian Adventure of 2020
 Date: March 24, 2020
 Author: Yannish
 ---
-<a href='https://photos.google.com/share/AF1QipOQhsfyUWwEzBea9txkciIQSIrnLFNWJnOk5m5kBh5EFylXxa2H8qyqJ8_-9YQw4w?key=SUZxaDZVRUNQWUxKX29lcHJ0Z3h1OFNHMjNuQlV3&source=ctrlq.org' class=container__image><img src='https://lh3.googleusercontent.com/kDWSxfidYdfbO-Y7mmpS2VluyPWVLi4onuCY4WkFMD4qrgut2RLYynXl4H9bshDUegXk-cJGSASb3NZNztOhfW0v_XEaxNOvIv0-6pSvSNnscieyIwG984Q7WCq48tT5ENBvqPtxVMI=w2400' /></a>
-
 This year, prior to the COVID-19 quarantine, I took some time off of work and travelled to India. I had travelled to India once before in 2015 when I spent 5 months there as part of a year long backpacking trip. I  looked very different back then but things have since changed!
 
 This time around, I took 3 weeks off of work primarily because I had some friends getting married in India and I thought it would be a great excuse to do some travelling! So my girlfriend, Suzanne, and I made an itinerary that took us from Chennai to Sikkim through Kolkata and finally to the Andaman Islands for a bit of relaxation before returning to frigid ol' Toronto. This is a blog/tale about that adventure!

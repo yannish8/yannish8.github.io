@@ -39,7 +39,7 @@ THEME = "/Users/yannish-tpm/Projects/personal/pelican-themes/resume"
 # Profile information
 NAME = 'Yannish Sewraz'
 TAGLINE = 'Data Team Lead'
-PIC = '~/Projects/personal/blog/content/images/yannish-india-holi.jpeg'
+PIC = '/Users/yannish-tpm/Projects/personal/blog/content/images/yannish-india-holi.jpeg'
 
 # sidebar links
 EMAIL = 'yannish8@gmail.com'

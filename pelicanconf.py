@@ -48,5 +48,5 @@ MENUITEMS = (
     ('About', '/pages/about.html'),
     # ('Blog', '/category/blog.html'),
     # ('Email', 'http://www.google.com/recaptcha/mailhide/d?...'),
-    ('Vita', '/pdfs/YannishResume.pdf')
+    ('Vita', '/pdfs/yannish-resume.pdf')
     )

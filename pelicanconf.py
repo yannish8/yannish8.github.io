@@ -46,7 +46,7 @@ DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (
     ('About', '/pages/about.html'),
-    # ('Blog', '/category/blog.html'),
-    # ('Email', 'http://www.google.com/recaptcha/mailhide/d?...'),
-    ('Vita', '/pdfs/yannish-resume.pdf')
+    ('Resume', '/pdfs/yannish-resume.pdf')
     )
+
+STATIC_PATHS = ['images', 'pdfs']

@@ -1,5 +1,5 @@
 ---
-Title:  The Trip of a Lifetime
+Title:  My Backpacking Adventure - Part I
 Date: March 23, 2020
 Author: Yannish
 ---

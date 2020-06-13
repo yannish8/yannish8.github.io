@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import os
 
 AUTHOR = "Yannish"
 SITENAME = "Stay Alive"
@@ -39,7 +40,10 @@ DEFAULT_PAGINATION = 10
 THEME = "../pelican-themes/pelican-bootstrap3"
 JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
 PLUGIN_PATHS = ["../pelican-plugins"]
-PLUGINS = ["i18n_subsites"]
+PLUGINS = ["i18n_subsites", "liquid_tags.notebook"]
+
+EXTRA_HEADER = open('_nb_header.html').read() if os.path.exists('_nb_header.html') else None
+NOTEBOOK_DIR = 'notebooks'
 
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
@@ -48,5 +52,10 @@ MENUITEMS = (
     ('About', '/pages/about.html'),
     ('Resume', '/pdfs/yannish-resume.pdf')
     )
+
+ABOUT_ME = "My name is Yannish. This is my blog. Hope you find something useful within it!"
+AVATAR = "images/yannish-india-holi.jpeg"
+SOCIAL = (('linkedin', 'https://www.linkedin.com/in/yannish8/'),
+          ('github', 'https://github.com/yannish8'))
 
 STATIC_PATHS = ['images', 'pdfs']

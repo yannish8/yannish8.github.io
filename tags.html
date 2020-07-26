@@ -172,16 +172,6 @@ init_mathjax = function() {
 }
 init_mathjax();
 </script>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-92608904-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-92608904-1');
-    </script>
-
 
 
         <meta name="author" content="Yannish" />
@@ -384,23 +374,21 @@ Stay Alive            </a>
 <script src="/theme/js/respond.min.js"></script>
 
 
-    <!-- Google Analytics -->
-    <script type="text/javascript">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-92608904-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
 
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-92608904-1']);
-        _gaq.push(['_trackPageview']);
+    function gtag() {
+        dataLayer.push(arguments);
+    }
 
-        (function () {
-            var ga = document.createElement('script');
-            ga.type = 'text/javascript';
-            ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(ga, s);
-        })();
-    </script>
-    <!-- End Google Analytics Code -->
+    gtag('js', new Date());
+
+    gtag('config', 'UA-92608904-1');
+</script>
+<!-- End Google Analytics Code -->
+
 
 <script type="text/javascript">
 jQuery(document).ready(function($) {

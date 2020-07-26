@@ -172,6 +172,16 @@ init_mathjax = function() {
 }
 init_mathjax();
 </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-92608904-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-92608904-1');
+    </script>
+
 
 <link rel="canonical" href="/pages/about.html">
 
@@ -193,6 +203,8 @@ init_mathjax();
     <link href="/theme/css/pygments/native.css" rel="stylesheet">
     <link rel="stylesheet" href="/theme/css/style.css" type="text/css"/>
 
+        <link href="/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Stay Alive ATOM Feed"/>
 
 
 </head>
@@ -250,7 +262,7 @@ imagine most people will not find it very interesting!</p>
             <aside>
 <div id="aboutme">
         <p>
-            <img width="100%" class="img-thumbnail" src="/images/yannish-india-holi.jpeg"/>
+            <img width="100%" class="img-thumbnail" src="/images/yannish-india-holi.png"/>
         </p>
     <p>
       <strong>About Yannish</strong><br/>
@@ -298,6 +310,23 @@ imagine most people will not find it very interesting!</p>
 <script src="/theme/js/respond.min.js"></script>
 
 
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-92608904-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
 
 <script type="text/javascript">
 jQuery(document).ready(function($) {

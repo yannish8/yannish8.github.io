@@ -1,5 +1,5 @@
 ---
-Title: My Plight with Skin Issues, Food and Mental Health
+Title: My Plight with Skin Issues & Food
 Date: July 12, 2020
 Author: Yannish
 Tags: health, diet

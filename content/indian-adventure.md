@@ -2,6 +2,7 @@
 Title:  The Great Indian Adventure of 2020
 Date: March 24, 2020
 Author: Yannish
+Tags: travel, India
 ---
 This year, prior to the COVID-19 quarantine, I took some time off of work and travelled to India. I had travelled to India once before in 2015 when I spent 5 months there as part of a year long backpacking trip but this was a different kind of adventure.
 

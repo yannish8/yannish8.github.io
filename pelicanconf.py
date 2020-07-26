@@ -54,7 +54,7 @@ MENUITEMS = (
     )
 
 ABOUT_ME = "My name is Yannish. This is my blog. Hope you find something useful within it!"
-AVATAR = "images/yannish-india-holi.jpeg"
+AVATAR = "images/yannish-india-holi.png"
 SOCIAL = (('linkedin', 'https://www.linkedin.com/in/yannish8/'),
           ('github', 'https://github.com/yannish8'))
 

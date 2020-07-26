@@ -2,6 +2,7 @@
 Title:  My Backpacking Adventure - Part I
 Date: March 23, 2020
 Author: Yannish
+Tags: travel, India
 ---
 When I was 25 years old, I decided to quit my job and embark on a year-long journey to Asia. This is a "brief" write up about this trip.
 

@@ -2,6 +2,7 @@
 Title:  A Simple Analysis of NBA 3 Point Shooters
 Date: June 9, 2020
 Author: Yannish
+Tags: code, data, sports
 ---
 
 I am a big basketball fan and was always fascinated by the data that was generated for players, teams, seasons, etc

@@ -37,13 +37,15 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-THEME = "../pelican-themes/pelican-bootstrap3"
+# MARKUP = ("md", "ipynb")
+
+THEME = "pelican-themes/pelican-bootstrap3"
+
+PLUGIN_PATHS = ["pelican-plugins"]
+PLUGINS = ["i18n_subsites"]
 JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
-PLUGIN_PATHS = ["../pelican-plugins"]
-PLUGINS = ["i18n_subsites", "liquid_tags.notebook"]
 
 EXTRA_HEADER = open('_nb_header.html').read() if os.path.exists('_nb_header.html') else None
-NOTEBOOK_DIR = 'notebooks'
 
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False

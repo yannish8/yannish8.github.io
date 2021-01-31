@@ -45,6 +45,8 @@ PLUGIN_PATHS = ["pelican-plugins"]
 PLUGINS = ["i18n_subsites"]
 JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
 
+GOOGLE_ANALYTICS = "UA-92608904-1"
+
 EXTRA_HEADER = open('_nb_header.html').read() if os.path.exists('_nb_header.html') else None
 
 DISPLAY_CATEGORIES_ON_MENU = False
